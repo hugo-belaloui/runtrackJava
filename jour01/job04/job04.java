@@ -8,5 +8,6 @@ public class job04 {
         System.out.print("Entrez un entier : ");
         int square = keyboard.nextInt();
         System.out.println(square*square);
+        keyboard.close();
     }
 }

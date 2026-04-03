@@ -21,5 +21,6 @@ public class job05 {
             }
         }
         System.out.println(max);
+        keyboard.close();
     }
 }
